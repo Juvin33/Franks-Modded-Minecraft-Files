@@ -1,0 +1,11 @@
+To play game, go inside 'CurseForge Windows - Installer', right click and run. Download CurseForge.
+
+Create Minecraft World on CurseForge, When given the option choose Fabric loader.
+
+Go into options next to the play button. Open folder and find mods, open modpacks folder and copy all modpacks to mods folder.
+
+Pres play to dowload minecraft forge. 
+
+Friend Frank in Social his mc name is: XboxdefaultName
+
+If you get any errors, Try again, if it doesnt work you suck.
